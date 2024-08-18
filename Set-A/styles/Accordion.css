@@ -1,0 +1,26 @@
+.accordion {
+  width: 100%;
+  max-width: 600px;
+  margin: 20px auto;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.accordion-item {
+  border-bottom: 1px solid #ddd;
+}
+
+.accordion-title {
+  padding: 15px;
+  cursor: pointer;
+  background-color: #f7f7f7;
+}
+
+.accordion-title h3 {
+  margin: 0;
+}
+
+.accordion-content {
+  padding: 15px;
+  background-color: #fff;
+}
